@@ -1,0 +1,7 @@
+com\mycompany\restfulwebservice\client\ClientClassPost.class
+com\mycompany\restfulwebservice\postmethodinfo\PostMethodUsingXml.class
+com\mycompany\restfulwebservice\pojo\PersonClass.class
+com\mycompany\restfulwebservice\application\getmethodinfo\GetMethodUsingXml.class
+com\mycompany\restfulwebservice\postmethodinfo\PostMethodUsingJson.class
+com\mycompany\restfulwebservice\application\getmethodinfo\GetMethodUsingJson.class
+com\mycompany\restfulwebservice\application\ApplicationClass.class
